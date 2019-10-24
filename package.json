@@ -1,7 +1,7 @@
 {
-  "name": "styled-ui-kit",
-  "version": "0.6.2",
-  "description": "Style Kit for components which wrote on top of styled components.",
+  "name": "query-generator",
+  "version": "0.0.1",
+  "description": "Query generator is used to generate a query by giving set of rules.",
   "license": "MIT",
   "main": "core/index.js",
   "module": "core/index.js",
@@ -13,28 +13,21 @@
     {
       "name": "venkateshs",
       "email": "contactvenkateshsundaram@gmail.com"
-    },
-    {
-      "name": "vig_sub",
-      "email": "mailvignesh.sub@gmail.com"
     }
   ],
   "keywords": [
-    "components",
-    "react",
-    "kit",
-    "ui-kit",
-    "react-component",
-    "ui",
-    "styled-ui",
-    "styled-kit",
-    "styled-ui-kit",
-    "styled-components",
-    "library-ui"
+    "generator",
+    "query",
+    "query-generator",
+    "query-engine",
+    "query-builder",
+    "query-validator",
+    "builder",
+    "validator"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/stack-is-empty/styled-ui-kit.git"
+    "url": "https://github.com/stack-is-empty/query-generator.git"
   },
   "peerDependencies": {
     "react": "^16.3.2",
